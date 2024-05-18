@@ -1,7 +1,7 @@
 ### Hi there 👋, My name's Khemmaphat.
 
 ## About me
-I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I am computer engineering student. I interested in UI and UX design, web development and game development. I have a positive attitude and always listen to the opinions of others and team members.
+I'm a computer engineering student at King Mongkut's University of Technology Thonburi (KMUTT). I am computer engineering student. I interested in web development and game development. I have a positive attitude and always listen to the opinions of others and team members.
 
 My Resume: [here](https://khemmaphat.github.io/resume.pdf) | Contact me: <khemmaphat.work@gmail.com> 
 
